@@ -6,3 +6,4 @@
 - [数组常用方法](https://github.com/cyy942465/JavaScript30days/tree/main/04-ArrayCardioDay%201)
 - [做完这个还不会flex布局我直接吃](https://github.com/cyy942465/JavaScript30days/tree/main/05-FlexPanelGallery) 
 - [搜索框](https://github.com/cyy942465/JavaScript30days/tree/main/06-TypeAhead)
+- [你真的知道console要怎么用吗]()
