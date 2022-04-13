@@ -1,6 +1,6 @@
 # JavaScript30days
 一些js的小练习
-- [打鼓模拟器？](https://github.com/cyy942465/JavaScript30days/tree/main/01-JavaScriptDrumKit)
+- [打鼓模拟器？](https://cyy942465.github.io/JavaScript30days/)
 - [看看现在几点了](https://github.com/cyy942465/JavaScript30days/tree/main/02-JSandCSSBlock)
 - [响应网页元素](https://github.com/cyy942465/JavaScript30days/tree/main/03-CSSVariables)
 - [数组常用方法](https://github.com/cyy942465/JavaScript30days/tree/main/04-ArrayCardioDay%201)
