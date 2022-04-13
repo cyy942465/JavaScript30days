@@ -9,4 +9,4 @@
 - [你真的知道console要怎么用吗](https://github.com/cyy942465/JavaScript30days/tree/main/09-DevToolsDomination)
 - [播放器咯](https://github.com/cyy942465/JavaScript30days/tree/main/11-CustomVideoPlayer)
 - [输入wesbos试试？](https://cyy942465.github.io/JavaScript30days/12-KeySequenceDetection/index-START.html)
-- [滑滑看咯](https://cyy942465.github.io/JavaScript30days/)
+- [滑滑看咯](https://cyy942465.github.io/JavaScript30days/13-SlideinonScroll/index-START.html)
